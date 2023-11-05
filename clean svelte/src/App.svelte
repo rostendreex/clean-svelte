@@ -2,6 +2,8 @@
   import svelteLogo from "./assets/svelte.svg";
   import viteLogo from "/vite.svg";
   import Counter from "./lib/Counter.svelte";
+
+  // строки для страницы 
   let vite: string = "vite";
   let svelte: string = "svelte";
   let p2: string = " Click on the Vite and Svelte logos to learn more";
