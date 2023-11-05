@@ -12,6 +12,8 @@
   let p1_2: string = "the official Svelte app framework powered by Vite!";
 </script>
 
+<!-- Вёрстка -->
+
 <main>
   <div>
     <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
